@@ -5,7 +5,13 @@ This is a toDo list Web Application that allows the user to easily create new ta
 It also provides login facility for each user chosen by them while registering for the first time.
 The data is stored in an sqlite database and where each user has to choose a unique email and a unique username while registering.
 
-#### Note: This app is still in the development stage and may be unstable / have bugs. Please contact me / send a pull request if you encounter any issues.
+#### Note: This app is still in the development stage and may have potential bugs. Feel free to contact me if you find any!
+
+## Requirements
+All required modules can be downloaded using PIP
+1. Flask
+2. Flask-sqlalchemy
+3. Flask-login
 
 A few sample pictures of the app in action:
 
