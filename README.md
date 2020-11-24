@@ -13,8 +13,6 @@ All required modules can be downloaded using PIP
 2. Flask-sqlalchemy
 3. Flask-login
 
-A few sample pictures of the app in action:
-
 ## Home Page
 <img width="958" alt="homePage" src="https://user-images.githubusercontent.com/65371747/98788090-5f3b2180-2426-11eb-8156-f6d5a68a61d2.png">
 
